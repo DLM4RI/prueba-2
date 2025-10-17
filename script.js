@@ -1,5 +1,5 @@
 let none_1 = undefined
-var none = NaN
+var none = 1
  
 function name(params) {
     
